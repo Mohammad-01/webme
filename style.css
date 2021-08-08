@@ -56,6 +56,17 @@
   max-width: 1000px;
   position: relative;
   margin: auto;
+  
+}
+
+.slideshow {
+  margin: auto;
+  width: 80%;
+  height: 49%;
+  padding: 10px;
+  background-image: url("https://wallpaperaccess.com/full/3426921.jpg");
+  height: 1200px; 
+  width: 1400px;
 }
 
 /* Hide the images by default */
@@ -143,3 +154,4 @@ Caption text
   from {opacity: .4}
   to {opacity: 1}
 }
+
